@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @liuruihan886
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-- Proficient IOS Developer. 
-- Skilled in Swift, Objective-C.
-- Committed to creating intuitive
-- user-friendly mobile applications with high performance.
+- 👀 I’m interested in Proficient IOS Developer. Skilled in Swift, Objective-C.
+- 🌱 I’m currently learning Committed to creating intuitive.
+- 💞️ I’m looking to collaborate on user-friendly mobile applications with high performance.
